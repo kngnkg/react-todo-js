@@ -2,15 +2,6 @@ body {
     font-family: sans-serif;
 }
 
-.input-area {
-    background-color: #c1ffff;
-    width: 400px;
-    height: 30px;
-    padding: 8px;
-    margin: 8px;
-    border-radius: 8px;
-}
-
 input {
     border-radius: 16px;
     border: none;
@@ -32,24 +23,6 @@ button:hover {
 
 li {
     margin-right: 8px;
-}
-
-.incomplete-area {
-    background-color: #c6ffe2;
-    width: 400px;
-    min-height: 200px;
-    padding: 8px;
-    margin: 8px;
-    border-radius: 8px;
-}
-
-.complete-area {
-    background-color: #ffffe0;
-    width: 400px;
-    min-height: 200px;
-    padding: 8px;
-    margin: 8px;
-    border-radius: 8px;
 }
 
 .title {
